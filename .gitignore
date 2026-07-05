@@ -1,2 +1,3 @@
 dataset/*.csv
 dataset/data_combination/*.csv
+script/utils/*.csv
